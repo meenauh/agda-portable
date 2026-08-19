@@ -1,6 +1,6 @@
 # Portability
 
-AGDA is model-agnostic and harness-agnostic. The core contract is the Markdown under `skills/`, `docs/`, and `commands/`; a host maps its own actions to the capability words used there.
+AGDA is model-agnostic and harness-agnostic. The core contract is the Markdown under `skills/` and `docs/`. A host maps its own actions to the capability words used there.
 
 | AGDA need | Host-independent meaning |
 | --- | --- |

@@ -5,7 +5,7 @@ AGDA (Agentic Game Dev Assistant) is a portable, model-agnostic workflow for tak
 ## What Is Portable
 
 - `skills/` contains the workflow instructions in a common, Markdown-first format.
-- `docs/` and `commands/` contain framework-neutral references and templates.
+- `docs/` contains framework-neutral references and templates.
 - The workflow asks a host to use capabilities such as filesystem access, Git, tests, and optional subagents, but does not require a specific implementation of them.
 - If a host cannot rename a conversation or launch subagents, it should skip the cosmetic title action and either execute sequentially when authorised or report the missing capability where parallel coordination is required.
 
