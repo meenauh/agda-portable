@@ -1,5 +1,5 @@
 interface:
   display_name: "AGDA: Deploy"
-  short_description: "Deploy a Railway release or hotfix"
-  default_prompt: "Use $AGDA:deploy to deploy a Railway release or hotfix, verify the Railway result, run the production smoke check, and return to develop."
+  short_description: "Version, tag, merge, and push releases"
+  default_prompt: "Use $AGDA:deploy to bump the project version, merge the release or hotfix, tag it, push branches, and return to develop."
   brand_color: "#2563EB"
