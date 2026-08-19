@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Technical Architecture"
+  short_description: "Help with AGDA: Technical Architecture tasks"
+  default_prompt: "Use $AGDA:technical-architecture to create or review the architecture baseline."

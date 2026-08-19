@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Work Review"
+  short_description: "Help with AGDA: Work Review tasks"
+  default_prompt: "Use $AGDA:work-review to review and close a completed story."

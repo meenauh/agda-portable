@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: System Design"
+  short_description: "Help with AGDA: System Design tasks"
+  default_prompt: "Use $AGDA:system-design to design the next unfinished epic."

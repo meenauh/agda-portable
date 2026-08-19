@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Story Shaping"
+  short_description: "Help with AGDA: Story Shaping tasks"
+  default_prompt: "Use $AGDA:story-shaping to split an approved epic into stories and tasks."

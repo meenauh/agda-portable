@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Production Planning"
+  short_description: "Help with AGDA: Production Planning tasks"
+  default_prompt: "Use $AGDA:production-planning to create the production plan and backlog."

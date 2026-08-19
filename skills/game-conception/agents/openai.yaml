@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Game Conception"
+  short_description: "Help with AGDA: Game Conception tasks"
+  default_prompt: "Use $AGDA:game-conception to create the game brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Status Check"
+  short_description: "Help with AGDA: Status Check tasks"
+  default_prompt: "Use $AGDA:status-check to find the current stage and next skill."

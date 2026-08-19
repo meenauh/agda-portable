@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: System Design Review"
+  short_description: "Help with AGDA: System Design Review tasks"
+  default_prompt: "Use $AGDA:system-design-review to review the next epic design."

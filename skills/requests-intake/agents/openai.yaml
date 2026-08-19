@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Requests Intake"
+  short_description: "Help with AGDA: Requests Intake tasks"
+  default_prompt: "Use $AGDA:requests-intake to classify a request and route the next work."

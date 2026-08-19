@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Production Handoff"
+  short_description: "Help with AGDA: Production Handoff tasks"
+  default_prompt: "Use $AGDA:production-handoff to validate gates and hand off to production."

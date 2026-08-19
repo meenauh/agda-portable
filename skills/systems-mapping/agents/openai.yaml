@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Systems Mapping"
+  short_description: "Help with AGDA: Systems Mapping tasks"
+  default_prompt: "Use $AGDA:systems-mapping to map game systems and dependencies."

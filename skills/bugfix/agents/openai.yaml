@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Bugfix"
+  short_description: "Help with AGDA: Bugfix tasks"
+  default_prompt: "Use $AGDA:bugfix to reproduce, fix, and validate one selected bug."

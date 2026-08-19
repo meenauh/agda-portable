@@ -1,0 +1,8 @@
+interface:
+  display_name: "AGDA: Bug Fix Session"
+  short_description: "Coordinate bug fixes with worker agents"
+  default_prompt: "Use $AGDA:bug-fix-session to coordinate the selected bug items and spawn one bugfix worker per bug."
+  brand_color: "#2563EB"
+
+policy:
+  allow_implicit_invocation: true

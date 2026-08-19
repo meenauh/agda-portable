@@ -1,0 +1,45 @@
+{
+  "name": "agda-portable",
+  "version": "0.1.0+codex.20260615195022",
+  "description": "Optional Codex adapter for the model- and harness-agnostic AGDA game-development workflow.",
+  "author": {
+    "name": "AGDA",
+    "email": "noreply@example.com",
+    "url": "https://github.com/meenauh/agda-portable"
+  },
+  "homepage": "https://github.com/meenauh/agda-portable",
+  "repository": "https://github.com/meenauh/agda-portable",
+  "license": "MIT",
+  "keywords": [
+    "game-development",
+    "preproduction",
+    "production",
+    "tasks",
+    "codex",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AGDA",
+    "shortDescription": "Codex adapter for the portable AGDA workflow.",
+    "longDescription": "AGDA is a Markdown-first, model- and harness-agnostic game-development workflow. This optional adapter exposes its skills in Codex.",
+    "developerName": "AGDA",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/meenauh/agda-portable",
+    "privacyPolicyURL": "https://github.com/meenauh/agda-portable",
+    "termsOfServiceURL": "https://github.com/meenauh/agda-portable",
+    "defaultPrompt": [
+      "Start or resume AGDA preproduction.",
+      "Create the next AGDA artifact.",
+      "Detect AGDA production state and execute the next epic from the backlog."
+    ],
+    "brandColor": "#2563EB",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "screenshots": []
+  }
+}

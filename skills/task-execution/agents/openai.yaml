@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Task Execution"
+  short_description: "Help with AGDA: Task Execution tasks"
+  default_prompt: "Use $AGDA:task-execution to execute one selected production task."

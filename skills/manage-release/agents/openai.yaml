@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Manage Release"
+  short_description: "Help with AGDA: Manage Release tasks"
+  default_prompt: "Use $AGDA:manage-release to prepare the next player-facing release."

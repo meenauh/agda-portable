@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: ADR Creation"
+  short_description: "Help with AGDA: ADR Creation tasks"
+  default_prompt: "Use $AGDA:adr-creation to create or review an architecture decision record."

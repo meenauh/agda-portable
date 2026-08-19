@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGDA: Work Execution"
+  short_description: "Help with AGDA: Work Execution tasks"
+  default_prompt: "Use $AGDA:work-execution to execute ready tasks for one story."
